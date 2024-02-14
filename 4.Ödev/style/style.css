@@ -1,0 +1,25 @@
+#navbar {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.container-fluid a {
+    color: white;
+}
+
+.nav-item a {
+    color: white !important;
+}
+
+.card-img-top {
+    padding: 15px;
+}
+
+/* MEDIA QUERIES */ 
+
+@media screen and (max-width: 400px) {
+
+
+
+}
